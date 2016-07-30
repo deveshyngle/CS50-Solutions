@@ -16,13 +16,6 @@ int main(void)
         }
 	} while (pyramid_height < 1 || pyramid_height > 23);
 
-	/*
-		The outer loop handles the count of rows to print.
-		The inner loops are responsible for printing the correct number of 
-		spaces and hashes. The first of the two inner loop handles spaces
-        It takes the value of the loop counter form the outer loop
-		plus 2 as border value since we starting the pyramid with 2 blocks;
-	*/ 
 	for(int i = 0; i < pyramid_height; i++) 
 	{
 		// Print the required spaces
