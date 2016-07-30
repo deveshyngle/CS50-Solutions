@@ -1,12 +1,3 @@
-/****************************************************************************
- * greedy.c
- * cs50
- * L. Adan
- * Breakout Game
- ***************************************************************************/
-
-// standard libraries
-// standard libraries
 #define _XOPEN_SOURCE
 #include <stdio.h>
 #include <stdlib.h>
