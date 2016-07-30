@@ -13,3 +13,8 @@ These solutions are for reference purposes only, please try to solve the problem
 As for the Final Project , I made a very basic HTML website which barely qualifies as a project. I'll add its code later on.
 
 KTHXBAI!! 
+
+
+
+*Disclaimer*
+I do not own any piece of code and this is only for refrence purposes.(yeah,right)
