@@ -18,3 +18,4 @@ KTHXBAI!!
 
 *Disclaimer*
 I do not own any piece of code and this is only for refrence purposes.(yeah,right)
+Also i did complete this course in 2015 and recieved my honor code certificate.
