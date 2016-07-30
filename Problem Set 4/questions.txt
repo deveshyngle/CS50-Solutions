@@ -1,0 +1,22 @@
+0.  Png => 16.7 Million colors, JPEG => 16.7 Million colors, GIF => 256 Colors, BMP => 16.7 Million colors.
+1.  GIF is the only format that supports animation.
+2.  As you compress and decompress a certian format of files repeatedly, files will progrssively lose quality; this is called 
+    losssy compression. In loseless compression, quality remains the same regards of the number of times file has been
+    compressed or decompressed.   
+3.  JPEGs are lossy-compressed
+4.  When a file is deleted in FAT system, metadata that is pointed to that file is rewritten while disk blocks containing the file's content are still there.
+5.  I would use a data destruction software that would over-write the disk so many times that it would be nearly impossible to recover the data.
+6.  <stdint.h> is a header file located in the C standard Library which "allow programmers to write more portable code by providing a set of typedefs,"
+    that narrow down specific typedefs in exact-integer types.
+7.  These are predefined signed TYPES for specific number usage
+8.  BYTE => 8-bit, DWORD => 32-bit, LONG => 32-bit, WORD => 16-bit
+9.  Signature letters BM with hex value (0x42 0x4D)
+10. befSize is the bitmap file size in bytes and biSize is the header size which must be be at least 40 bytes
+11. A negative value for biHeight occurs when pixel data is ordered from the top-down
+12. The biBitCount field specifies the BMP's color depth.
+13. Fopen may return NULL value when file is too large and there is not enough space or user does not authorized to create file
+14. The third argument to fread takes in the size of the bitmapfile header and each bitmap image comes with only one header.
+15. It gets a value of 1
+16. The fseek() function is used to change the file postion of the stream
+17. Used as an argument for fseek(); shows the position of the postion pointer
+18. It is none other than ROB BOWDEN and his CAT
